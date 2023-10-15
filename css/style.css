@@ -1,0 +1,113 @@
+/* style.css comment here */
+body{
+    margin: 0;
+    padding: 0;
+}
+/* header start */
+.header{
+    height: 100px;
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+}
+.header h1{
+    padding-top: 30px;
+    margin: 0px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+/* header end */
+/* banner start */
+.container{
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    overflow: hidden;
+}
+.blog{
+    width: 70%;
+    height: 200px;
+    background-color: green;
+    float: left;
+}
+.blog h1{
+    font-size: 35px;
+    margin: 0;
+    padding-top: 9%;
+    letter-spacing: 2px;
+    color: white;
+}
+.contact{
+    width: 30%;
+    height: 200px;
+    background-color: yellow;
+    float: right;
+}
+.contact h2{
+    font-size: 35px;
+    margin: 0;
+    padding-top: 21%;
+    letter-spacing: 2px;
+    color: red;
+}
+/* banner end */
+/* cotainer2 start */
+.container2{
+   overflow: hidden;
+}
+.box{
+    width: 33.33%;
+    height: 150px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 700;
+    letter-spacing: 2px;
+    color: white;
+    text-transform: uppercase;  
+    float: left;
+}
+.box h3{
+    text-align: center;
+    padding: 4%;
+}
+.pink{
+   background-color: deeppink;
+}
+.teal{
+    background-color: teal;
+}
+.aqua{
+    background-color: aqua;
+}
+/* container2 end */
+/* footer start */
+.footer{
+    height: 100px;
+    background-color: orange;
+    color: white;
+    text-transform: uppercase;
+}
+.footer h3{
+    padding-top: 3%;;
+    margin: 0px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-align: center;
+}
+/* footer end */
+/* abbr start */
+/* h4{
+    color: orangered;
+    margin-left:10px;
+    font-size: 20px;
+}
+p{
+    margin-left:10px ;
+} */
+/* abbr end */
